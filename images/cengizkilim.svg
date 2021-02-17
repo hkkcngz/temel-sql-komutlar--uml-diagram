@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="127 86 859 539" width="732px" height="453px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="265" y1="144" x2="275" y2="144" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="421" y1="254" x2="431" y2="254" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="275" y1="144" x2="421" y2="254" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="272.5" y1="144" x2="268.96446609407" y2="147.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="272.5" y1="144" x2="268.96446609407" y2="140.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="426" y1="254" x2="422.46446609407" y2="257.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="426" y1="254" x2="422.46446609407" y2="250.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="431" y1="274" x2="421" y2="274" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="247" y1="429" x2="237" y2="429" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="421" y1="274" x2="247" y2="429" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="423.5" y1="274" x2="427.03553390593" y2="277.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="423.5" y1="274" x2="427.03553390593" y2="270.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="242" y1="429" x2="245.53553390593" y2="432.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="242" y1="429" x2="245.53553390593" y2="425.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="541" y1="314" x2="551" y2="314" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="700" y1="434" x2="710" y2="434" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="551" y1="314" x2="700" y2="434" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="548.5" y1="314" x2="544.96446609407" y2="317.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="548.5" y1="314" x2="544.96446609407" y2="310.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="705" y1="434" x2="701.46446609407" y2="437.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="705" y1="434" x2="701.46446609407" y2="430.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="541" y1="294" x2="551" y2="294" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="701" y1="131" x2="711" y2="131" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="551" y1="294" x2="701" y2="131" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="548.5" y1="294" x2="544.96446609407" y2="297.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="548.5" y1="294" x2="544.96446609407" y2="290.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="706" y1="131" x2="702.46446609407" y2="134.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="706" y1="131" x2="702.46446609407" y2="127.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="142" y1="429" x2="132" y2="429" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="140" y1="184" x2="150" y2="184" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="132" y1="429" x2="140" y2="184" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="134.5" y1="429" x2="138.03553390593" y2="432.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="134.5" y1="429" x2="138.03553390593" y2="425.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="145" y1="184" x2="141.46446609407" y2="187.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="145" y1="184" x2="141.46446609407" y2="180.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="711" y1="131" x2="701" y2="131" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="700" y1="474" x2="710" y2="474" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="701" y1="131" x2="700" y2="474" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="703.5" y1="131" x2="707.03553390593" y2="134.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="703.5" y1="131" x2="707.03553390593" y2="127.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="705" y1="474" x2="701.46446609407" y2="477.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="705" y1="474" x2="701.46446609407" y2="470.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <rect width="115" height="20" x="150" y="114" style="fill:#007;stroke:black;"/>
+   <text width="115" height="20" x="155" y="128" style="fill:#fff;" font-family="Arial" font-size="16px"> kilim</text>
+   <rect width="115" height="20" x="150" y="134" style="fill:#aea;stroke:black;"/>
+   <text width="115" height="20" x="155" y="148" style="fill:black;" font-family="Arial" font-size="16px">Kilim_ID</text>
+   <rect width="115" height="20" x="150" y="154" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="155" y="168" style="fill:black;" font-family="Arial" font-size="16px">Kilim_Aciklama</text>
+   <rect width="115" height="20" x="150" y="174" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="155" y="188" style="fill:black;" font-family="Arial" font-size="16px">Model_ID</text>
+   <rect width="110" height="20" x="431" y="224" style="fill:#007;stroke:black;"/>
+   <text width="110" height="20" x="436" y="238" style="fill:#fff;" font-family="Arial" font-size="16px"> main</text>
+   <rect width="110" height="20" x="431" y="244" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="436" y="258" style="fill:black;" font-family="Arial" font-size="16px">Kilim_Sayisi</text>
+   <rect width="110" height="20" x="431" y="264" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="436" y="278" style="fill:black;" font-family="Arial" font-size="16px">Model_Sayisi</text>
+   <rect width="110" height="20" x="431" y="284" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="436" y="298" style="fill:black;" font-family="Arial" font-size="16px">Musteri_Sayisi</text>
+   <rect width="110" height="20" x="431" y="304" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="436" y="318" style="fill:black;" font-family="Arial" font-size="16px">Siparis_Sayisi</text>
+   <rect width="95" height="20" x="142" y="399" style="fill:#007;stroke:black;"/>
+   <text width="95" height="20" x="147" y="413" style="fill:#fff;" font-family="Arial" font-size="16px"> model</text>
+   <rect width="95" height="20" x="142" y="419" style="fill:#aea;stroke:black;"/>
+   <text width="95" height="20" x="147" y="433" style="fill:black;" font-family="Arial" font-size="16px">Model_ID</text>
+   <rect width="95" height="20" x="142" y="439" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="147" y="453" style="fill:black;" font-family="Arial" font-size="16px">Model_Adi</text>
+   <rect width="95" height="20" x="142" y="459" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="147" y="473" style="fill:black;" font-family="Arial" font-size="16px">Model_Ebati</text>
+   <rect width="95" height="20" x="142" y="479" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="147" y="493" style="fill:black;" font-family="Arial" font-size="16px">Model_Stok</text>
+   <rect width="95" height="20" x="142" y="499" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="147" y="513" style="fill:black;" font-family="Arial" font-size="16px">Model_Fiyat</text>
+   <rect width="133" height="20" x="711" y="101" style="fill:#007;stroke:black;"/>
+   <text width="133" height="20" x="716" y="115" style="fill:#fff;" font-family="Arial" font-size="16px"> musteri</text>
+   <rect width="133" height="20" x="711" y="121" style="fill:#aea;stroke:black;"/>
+   <text width="133" height="20" x="716" y="135" style="fill:black;" font-family="Arial" font-size="16px">Musteri_ID</text>
+   <rect width="133" height="20" x="711" y="141" style="fill:none;stroke:black;"/>
+   <text width="133" height="20" x="716" y="155" style="fill:black;" font-family="Arial" font-size="16px">Musteri_AdSoyad</text>
+   <rect width="133" height="20" x="711" y="161" style="fill:none;stroke:black;"/>
+   <text width="133" height="20" x="716" y="175" style="fill:black;" font-family="Arial" font-size="16px">Musteri_Adres</text>
+   <rect width="133" height="20" x="711" y="181" style="fill:none;stroke:black;"/>
+   <text width="133" height="20" x="716" y="195" style="fill:black;" font-family="Arial" font-size="16px">Musteri_Telefon</text>
+   <rect width="125" height="20" x="710" y="404" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="715" y="418" style="fill:#fff;" font-family="Arial" font-size="16px"> siparis</text>
+   <rect width="125" height="20" x="710" y="424" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="715" y="438" style="fill:black;" font-family="Arial" font-size="16px">Siparis_ID</text>
+   <rect width="125" height="20" x="710" y="444" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="715" y="458" style="fill:black;" font-family="Arial" font-size="16px">Siparis_EdilenID</text>
+   <rect width="125" height="20" x="710" y="464" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="715" y="478" style="fill:black;" font-family="Arial" font-size="16px">Siparis_VerenID</text>
+   <rect width="125" height="20" x="710" y="484" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="715" y="498" style="fill:black;" font-family="Arial" font-size="16px">Siparis_Durum</text>
+   <rect width="125" height="20" x="710" y="504" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="715" y="518" style="fill:black;" font-family="Arial" font-size="16px">Siparis_Tarih</text>
+</svg>
